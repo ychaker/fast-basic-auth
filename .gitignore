@@ -1,8 +1,12 @@
 *.gem
 *.rbc
 /.config
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
 /coverage/
-/InstalledFiles
+/doc/
 /pkg/
 /spec/reports/
 /test/tmp/
